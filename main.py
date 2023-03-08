@@ -1,11 +1,9 @@
 def fistFunc():
     print('this is function')
-    print('changed in master')
-    print('feature 4 changes in main')
-    print('another feature 4 changes')
+    print('in feature 5 deleted unnecessary strings')
 
-def fuctionfromBranch():
-    print('this is function from branch')
+def feature5():
+    print('another feature5')
 
 def anotherfunc():
     print('master updated')
