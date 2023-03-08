@@ -4,3 +4,7 @@ def fistFunc():
 
 def secondfunc():
     print('123')
+
+
+def masterfunc():
+    print('from master')
