@@ -11,3 +11,5 @@ def anotherfunc():
 def masterfunc():
     print('master added before feature 4 merged ')
 
+def masterfeature5parallel():
+    print('this should be rebased to feature 5')
