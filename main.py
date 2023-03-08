@@ -4,9 +4,8 @@ def fistFunc():
     print('new changes in master')
 
 
-def secondfunc():
-    print('feature from branch')
-
-
 def featurefunc():
     print('feature from new branch')
+
+def anotherfuncfrombranch():
+    print('new changed from branch')
