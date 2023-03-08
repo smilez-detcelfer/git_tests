@@ -1,8 +1,6 @@
 def fistFunc():
     print('this is function')
+    print('changed in master')
 
 def fuctionfromBranch():
     print('this is function from branch')
-
-def newfuncinmaster():
-    print('new func in master')
