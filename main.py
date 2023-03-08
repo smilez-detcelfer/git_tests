@@ -4,3 +4,6 @@ def fistFunc():
 
 def fuctionfromBranch():
     print('this is function from branch')
+
+def anotherfunc():
+    print('master updated')
