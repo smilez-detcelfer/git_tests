@@ -1,6 +1,6 @@
 def fistFunc():
     print('this is function')
-    print('in feature 5 deleted unnecessary strings')
+    print('changed in master to new')
 
 
 def secondfunc():
