@@ -8,4 +8,6 @@ def fuctionfromBranch():
 def anotherfunc():
     print('master updated')
 
+def masterfunc():
+    print('master added before feature 4 merged ')
 
