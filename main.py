@@ -5,3 +5,7 @@ def fistFunc():
 
 def secondfunc():
     print('feature from branch')
+
+
+def featurefunc():
+    print('feature from new branch')
